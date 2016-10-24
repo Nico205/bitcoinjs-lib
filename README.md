@@ -134,6 +134,7 @@ Please make your best effort to adhere to these when contributing to save on tri
 ## Copyright
 
 BitcoinJS (c) 2011-2016 bitcoinjs-lib contributors
+
 MachinecoinJS (c) 2011-2016 bitcoinjs-lib / machinecoinjs-lib contributors
 
 Released under MIT license
