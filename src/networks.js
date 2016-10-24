@@ -11,5 +11,6 @@ module.exports = {
     pubKeyHash: 0x32,
     scriptHash: 0x05,
     wif: 0xb2
-  }
+  },
+  bitcoin: machinecoin
 }
